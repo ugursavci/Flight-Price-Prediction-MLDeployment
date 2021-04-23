@@ -1,4 +1,4 @@
-# Flight-Price-Prediction-MLDeployment
+# Flight Price Prediction App using Flask and Heroku 
 
 ## Flight Prediction Model Deployment using Heroku
 
